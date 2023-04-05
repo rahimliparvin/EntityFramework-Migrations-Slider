@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SophiaFronttoBack.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SophiaFronttoBack.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\aboutpagefoto.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\aboutpagefoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\camerabackgroundimage.png",
+      "PackagePath": "staticwebassets\\assets\\img\\camerabackgroundimage.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\cardblogimg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cardblogimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto2.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto3.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto4",
+      "PackagePath": "staticwebassets\\assets\\img"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto4.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto5.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto6.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto7.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\carouselfoto8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carouselfoto8.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\caruselfoto1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\caruselfoto1.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\expert2img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\expert2img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\expert3img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\expert3img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\expert4img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\expert4img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\franceflag.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\franceflag.svg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\gbflag.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gbflag.svg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\germanyflag.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\germanyflag.svg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\laptop7200.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop7200.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\laptopbackgroundimage.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptopbackgroundimage.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\laptopmix.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptopmix.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\laptopxs3000.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptopxs3000.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\leptopfix.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\leptopfix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\leptoporiginal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\leptoporiginal.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\petersimons.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\petersimons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\russianflag.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\russianflag.svg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\slider background img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider background img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\slider background img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider background img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\slider background img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider background img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\slider background img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider background img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\slider background img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider background img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\smartfonbackgroundimg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\smartfonbackgroundimg.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\sofia-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sofia-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\sophilogofooter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sophilogofooter.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\tabletimg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tabletimg.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\tabletvx3000.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tabletvx3000.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\tabletvx4000.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tabletvx4000.png"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\img\\turkeyflag.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\turkeyflag.svg"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\myaccount.js",
+      "PackagePath": "staticwebassets\\assets\\js\\myaccount.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\products.js",
+      "PackagePath": "staticwebassets\\assets\\js\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\js\\wishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wishlist.js"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\aboutpage\\about.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\aboutpage\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\aboutpage\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\aboutpage\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\aboutpage\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\aboutpage\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\blogpage\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\blogpage\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\blogpage\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\blogpage\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\blogpage\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\blogpage\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\cartpage\\cart.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\cartpage\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\cartpage\\cart.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\cartpage\\cart.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\cartpage\\cart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\cartpage\\cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\checkout.page\\checkout.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\checkout.page\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\checkout.page\\checkout.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\checkout.page\\checkout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\checkout.page\\checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\checkout.page\\checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\contact\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\contact\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\contact\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\contact\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\contact\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\contact\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\homepage\\homepage.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\homepage\\homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\homepage\\homepage.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\homepage\\homepage.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\homepage\\homepage.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\homepage\\homepage.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\myaccountpage\\myaccount.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\myaccountpage\\myaccount.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\myaccountpage\\myaccount.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\myaccountpage\\myaccount.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\myaccountpage\\myaccount.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\myaccountpage\\myaccount.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\productspage\\products.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\productspage\\products.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\productspage\\products.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\productspage\\products.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\productspage\\products.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\productspage\\products.scss"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\wishlistpage\\wishlist.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\wishlistpage\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\wishlistpage\\wishlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\wishlistpage\\wishlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CASPER\\Desktop\\Asp.net\\EntityFramework-Migrations-Slider\\SophiaFronttoBack\\SophiaFronttoBack\\wwwroot\\assets\\scss\\pages\\wishlistpage\\wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\pages\\wishlistpage\\wishlist.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SophiaFronttoBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SophiaFronttoBack.props",
+      "PackagePath": "build\\SophiaFronttoBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SophiaFronttoBack.props",
+      "PackagePath": "buildMultiTargeting\\SophiaFronttoBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SophiaFronttoBack.props",
+      "PackagePath": "buildTransitive\\SophiaFronttoBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

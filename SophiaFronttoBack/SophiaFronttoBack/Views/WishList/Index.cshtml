@@ -1,0 +1,60 @@
+﻿
+
+
+
+
+<link rel="stylesheet" href="~/assets/scss/pages/wishlistpage/wishlist.css">
+
+
+<main>
+
+    <section id="wishlistpagebegin">
+        <div class="container">
+            <div class="wishlistpageleavehomepage">
+                <div class="wishlist">
+                    <h4>WISHLIST</h4>
+                </div>
+                <div class="homewishlist"><a href="homepage.html">HOME</a> / <a href="wishlist.html">WISHLIST</a></div>
+            </div>
+        </div>
+        <hr>
+    </section>
+
+    <section id="wishlist">
+
+
+        <div class="container">
+            <div class="alert alert-warning d-none" role="alert">
+                Wishlist products not found.
+            </div>
+            <div>
+                <div class="tablewishlist">
+
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Product</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Price</th>
+                                <th class="clrth" scope="col-2"><button class="clearAll"><span>CLEAR ALL</span></button></th>
+                            </tr>
+
+                            <div class="hr"></div>
+
+                        </thead>
+
+                        <tbody>
+                        </tbody>
+                    </table>
+
+                    <button class="infowishlist d-none"><span>YOU HAVE NO ITEMS IN YOUR SHOPPING CART.</span></button><br>
+                    <a href="homepage.html"><button class="getShopping d-none"><span>Continue shopping</span></button></a>
+                    <a href="./homepage.html"> <button class="continueShopping"><span>Continue shopping</span></button></a><span class="grand">Grand total:</span><span class="granddollar">$</span><span class="grandtotalprice"></span><a href="./checkout.html"><button class="procedCheckout"><span>Proceed To Checkout</span></button></a>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+</main>
